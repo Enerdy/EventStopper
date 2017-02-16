@@ -9,7 +9,7 @@ using TShockAPI.Hooks;
 
 namespace EventStopper
 {
-	[ApiVersion(1, 22)]
+	[ApiVersion(2, 0)]
 	public class EStopper : TerrariaPlugin
 	{
 		private static Config Config { get; set; }
