@@ -1,0 +1,6 @@
+bin/
+obj/
+*.mdb
+*.pdb
+*.userprefs
+!EventStopper.dll
